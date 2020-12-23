@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleIPTVEditor", "ConsoleIPTVEditor\ConsoleIPTVEditor.csproj", "{794F7914-476F-4F10-8E00-F611EBB93DAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{794F7914-476F-4F10-8E00-F611EBB93DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794F7914-476F-4F10-8E00-F611EBB93DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794F7914-476F-4F10-8E00-F611EBB93DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794F7914-476F-4F10-8E00-F611EBB93DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEF3E09F-18B0-4ADB-91D0-E3B207789245}
+	EndGlobalSection
+EndGlobal
